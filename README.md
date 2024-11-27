@@ -1,0 +1,2 @@
+# CinemaTech
+flutter project
